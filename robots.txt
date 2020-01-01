@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ughauciej.150x.co/sitemap.xml
